@@ -1,1 +1,3 @@
 *.png
+.idea
+.ipynb_checkpoints
