@@ -13,6 +13,8 @@ This is a group case study in which I use EDA (Exploratory Data Analysis) to ana
 
 In this project, we need to analyze the data and find out the driving factors behind loan default (the loans that were charged off), so the company can take those factors into consideration when deciding whether to accept a loan or not.
 
+We use the `loan.csv` (included in this repository) to analyze the data.
+
 ***Since this is a group case study, but due to a technical issue in UpGrad, I was not assigned to any groups.***
 
 ## Conclusions
