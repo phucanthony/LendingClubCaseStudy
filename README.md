@@ -9,13 +9,11 @@
 
 
 ## General Information
-This is a group case study in which I use EDA (Exploratory Data Analysis) to analyze a finance company. This company is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower interest rate loans through a fast online interface.
+This is a group case study in which we use EDA (Exploratory Data Analysis) to analyze a finance company. This company is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower interest rate loans through a fast online interface.
 
 In this project, we need to analyze the data and find out the driving factors behind loan default (the loans that were charged off), so the company can take those factors into consideration when deciding whether to accept a loan or not.
 
 We use the `loan.csv` (included in this repository) to analyze the data.
-
-***Since this is a group case study, but due to a technical issue in UpGrad, I was not assigned to any groups.***
 
 ## Conclusions
 Those are the conclusions retrieved from the analysis, further information can be found in the Notebook
